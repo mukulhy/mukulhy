@@ -35,6 +35,7 @@ I'm Harsh Yadav, a passionate Full Stack Developer who loves exploring new techn
 ### 📫 How to reach me ...
 - **LinkedIn**: [Harsh Yadav](https://www.linkedin.com/in/harshyadavk/)
 - **LeetCode**: [mukulhy](https://leetcode.com/u/mukulhy/)
+- **X**: [mukulhy](https://twitter.com/mukulhy)
 
 ### 😄 Pronouns ...
 - He/Him
